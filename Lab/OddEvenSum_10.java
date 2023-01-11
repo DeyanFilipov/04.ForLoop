@@ -25,7 +25,7 @@ public class OddEvenSum_10 {
         } else {
             System.out.println("No");
             int diff = Math.abs(evenSum - oddSum);
-            System.out.printf("DIff = %d", diff);
+            System.out.printf("Diff = %d", diff);
         }
    }
 }
